@@ -2,8 +2,8 @@
 
 title: "Inicialização com Darwin"
 date : 2024-10-23 00:00:00 +0000
-categories: [NAO]
-tags: [NAO]
+categories: [DARWIN]
+tags: [DARWIN]
 
 ---
 
