@@ -7,7 +7,7 @@ tags: [NAO]
 
 ---
 
-## 7 de novembro de 2024
+## 6 de novembro de 2024
 
 O planeado para esta semana era:
   Compilar código e mandar o mesmo para o NAO,  
