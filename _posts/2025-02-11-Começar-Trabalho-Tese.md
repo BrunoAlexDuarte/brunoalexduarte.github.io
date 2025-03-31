@@ -2,8 +2,8 @@
 
 title: "Começar Trabalho Tese"
 date : 2025-02-11 00:00:00 +0000
-categories: [NAO]
-tags: [NAO]
+categories: [Darwin]
+tags: [Darwin]
 
 ---
 

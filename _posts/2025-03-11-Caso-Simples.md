@@ -1,9 +1,9 @@
 ---
 
 title: "Começar com Caso Simplificado"
-date : 2025-02-11 00:00:00 +0000
-categories: [NAO]
-tags: [NAO]
+date : 2025-03-11 00:00:00 +0000
+categories: [Darwin]
+tags: [Darwin]
 
 ---
 
